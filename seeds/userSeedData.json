@@ -1,0 +1,58 @@
+[
+  {
+    "username": "user1",
+    "first_name": "John",
+    "last_name": "Doe",
+    "email": "user1@example.com",
+    "password": "password1",
+    "isLoggedIn": true
+  },
+  {
+    "username": "user2",
+    "first_name": "Jane",
+    "last_name": "Smith",
+    "email": "user2@example.com",
+    "password": "password2",
+    "isLoggedIn": false
+  },
+  {
+    "username": "user3",
+    "first_name": "David",
+    "last_name": "Johnson",
+    "email": "user3@example.com",
+    "password": "password3",
+    "isLoggedIn": false
+  },
+  {
+    "username": "user4",
+    "first_name": "Emily",
+    "last_name": "Brown",
+    "email": "user4@example.com",
+    "password": "password4",
+    "isLoggedIn": true
+  },
+  {
+    "username": "user5",
+    "first_name": "Michael",
+    "last_name": "Wilson",
+    "email": "user5@example.com",
+    "password": "password5",
+    "isLoggedIn": true
+  },
+  {
+    "username": "user6",
+    "first_name": "Sophia",
+    "last_name": "Miller",
+    "email": "user6@example.com",
+    "password": "password6",
+    "isLoggedIn": false
+  },
+  {
+    "username": "user7",
+    "first_name": "Daniel",
+    "last_name": "Davis",
+    "email": "user7@example.com",
+    "password": "password7",
+    "isLoggedIn": true
+  }
+]

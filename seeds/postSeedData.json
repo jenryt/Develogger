@@ -1,0 +1,62 @@
+[
+  {
+    "postTitle": "First Post",
+    "postContent": "This is the content of the first post.",
+    "postTag": "tag1",
+    "user_id": 1
+  },
+  {
+    "postTitle": "Second Post",
+    "postContent": "This is the content of the second post.",
+    "postTag": "tag2",
+    "user_id": 2
+  },
+  {
+    "postTitle": "Third Post",
+    "postContent": "This is the content of the third post.",
+    "postTag": "tag3",
+    "user_id": 3
+  },
+  {
+    "postTitle": "Fourth Post",
+    "postContent": "This is the content of the fourth post.",
+    "postTag": "tag4",
+    "user_id": 4
+  },
+  {
+    "postTitle": "Fifth Post",
+    "postContent": "This is the content of the fifth post.",
+    "postTag": "tag5",
+    "user_id": 5
+  },
+  {
+    "postTitle": "Sixth Post",
+    "postContent": "This is the content of the sixth post.",
+    "postTag": "tag6",
+    "user_id": 6
+  },
+  {
+    "postTitle": "Seventh Post",
+    "postContent": "This is the content of the seventh post.",
+    "postTag": "tag7",
+    "user_id": 7
+  },
+  {
+    "postTitle": "Eighth Post",
+    "postContent": "This is the content of the eighth post.",
+    "postTag": "tag8",
+    "user_id": 1
+  },
+  {
+    "postTitle": "Ninth Post",
+    "postContent": "This is the content of the ninth post.",
+    "postTag": "tag9",
+    "user_id": 2
+  },
+  {
+    "postTitle": "Tenth Post",
+    "postContent": "This is the content of the tenth post.",
+    "postTag": "tag10",
+    "user_id": 3
+  }
+]
