@@ -1,52 +1,52 @@
 [
   {
     "commentContent": "This is a comment on the first post.",
-    "username": "user1",
+    "user_id": "1",
     "post_id": 1
   },
   {
     "commentContent": "This is another comment on the first post.",
-    "username": "user2",
+    "user_id": "2",
     "post_id": 1
   },
   {
     "commentContent": "Comment on the second post.",
-    "username": "user3",
+    "user_id": "3",
     "post_id": 2
   },
   {
     "commentContent": "Another comment on the second post.",
-    "username": "user4",
+    "user_id": "4",
     "post_id": 2
   },
   {
     "commentContent": "Comment on the third post.",
-    "username": "user5",
+    "user_id": "5",
     "post_id": 3
   },
   {
     "commentContent": "Another comment on the third post.",
-    "username": "user6",
+    "user_id": "6",
     "post_id": 3
   },
   {
     "commentContent": "Comment on the fourth post.",
-    "username": "user7",
+    "user_id": "7",
     "post_id": 4
   },
   {
     "commentContent": "Another comment on the fourth post.",
-    "username": "user8",
+    "user_id": "8",
     "post_id": 4
   },
   {
     "commentContent": "Comment on the fifth post.",
-    "username": "user9",
+    "user_id": "9",
     "post_id": 5
   },
   {
     "commentContent": "Another comment on the fifth post.",
-    "username": "user10",
+    "user_id": "10",
     "post_id": 5
   }
 ]
